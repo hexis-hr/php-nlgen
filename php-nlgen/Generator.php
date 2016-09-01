@@ -23,8 +23,8 @@
  *
  */
 
-require 'ontology.php';
-require 'lexicon.php';
+require 'Ontology.php';
+require 'Lexicon.php';
 
 abstract class Generator {
 
